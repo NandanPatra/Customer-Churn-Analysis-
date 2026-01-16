@@ -51,7 +51,7 @@ As a beginner in Power BI and data analytics, this project helped me gain practi
 
 ---
 ## 📁 Dataset Used
-<a href="https://github.com/NandanPatra/Customer-Churn-Analysis-/edit/main/README.md">Data Set</a>
+<a href="[https://github.com/NandanPatra/Customer-Churn-Analysis-/edit/main/README.md](https://github.com/NandanPatra/Customer-Churn-Analysis-/blob/main/work%201.xlsx)">Data Set</a>
 
 ---
 ## 🚀 How to Use
